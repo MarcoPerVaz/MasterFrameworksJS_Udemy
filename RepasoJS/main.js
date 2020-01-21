@@ -140,3 +140,27 @@ datos.innerHTML =
     coche.mostrarDatos();
     console.log(coche);
     
+    /* Promesas */
+    var saludar = new Promise((resolve, reject) => {
+
+      setTimeout( () => {
+
+        let saludo = "Hola muy buenas a todos";
+        saludo = false; /* Esto sirve para llegar al error, ya que indica que la variable saludo no existe */
+
+        if (saludo) {
+          resolve(saludo)
+        } else {
+          reject('No hay saludo disponible');
+        }
+
+      }, 2000);
+
+    });
+
+    saludar.then(resultado => {
+      alert(resultado);
+    })
+    .catch(err => {
+      alert(err);
+    });

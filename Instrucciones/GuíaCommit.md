@@ -1,11 +1,10 @@
 
 
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Clases</strong></h3>
+<h3><b>Commit -</b> <strong>Herencia</strong></h3>
 <hr>
 <ol>
-  <li>Edición del archivo RepasoJS/index.html</li>
-  <li>Creación y edición del archivo RepasoJS/clases.js</li>
+  <li>Edición del archivo RepasoJS/clases.js</li>
 </ol>
 
 <br>
@@ -15,6 +14,10 @@
   <li>
     Se puede integrar Javascript desde el mismo archivo HTML(index.html), pero se recomienda tenerlo en archivo 
     por separado(main.js) para mayor legibilidad en el código.
+  </li>
+  <li>En esta sección se usa super(), para conocer de que va, ir al link
+    <br>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/super">Super</a>
   </li>
 </ul>
 

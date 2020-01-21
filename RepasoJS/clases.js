@@ -32,6 +32,31 @@ class Coche {
   }
 
 }
+/* Herencia */
+  /* Notas:
+      *La herencia hereda las propiedades de la clase padre(Coche)
+      *La clase Autobus hereda las propiedades de la clase padre(Coche)
+      *La palabra clave super es usada para acceder y llamar funciones del padre de un objeto.
+      *Se pueden agregar nuevas propiedades a la clase Autobus
+  */
+  class Autobus extends Coche {
+
+    constructor(modelo, velocidad, antiguedad){
+
+      /* La palabra clave super es usada para acceder y llamar funciones del padre de un objeto. */
+      super(modelo, velocidad, antiguedad);
+      this.altura = 5;
+    }
+
+    mostrarAltura(){
+      return "La altura del bus es: " + this.altura;
+    }
+
+  }
+var autobus1 = new Autobus('PEGASUS', 200, 2017);
+console.log(autobus1);
+console.log(autobus1.mostrarAltura());
+/* Fin Herencia */
 
 var coche1 = new Coche('BMW', 200, 2017);
 var coche2 = new Coche('Audi', 100, 2018);

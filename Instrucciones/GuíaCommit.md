@@ -1,16 +1,10 @@
 
 <style>body{background-color:black;} strong{color:crimson;} pre{background-color:red;}</style>
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Repaso Javascript</strong></h3>
+<h3><b>Commit -</b> <strong>Objetos de JS literales - JSON</strong></h3>
 <hr>
 <ol>
-  <li>
-    Creación y edición del directorio RepasoJS/
-    <ul>
-      <li>Creación y edición del archivo index.html</li>
-      <li>Creación y edición del archivo main.js</li>
-    </ul>
-  </li>
+  <li>Edición del archivo main.js</li>
 </ol>
 
 <br>
@@ -24,7 +18,6 @@
 </ul>
 
 <ul>
-  <li><em>Más información en el directorio RepasoJS/index.html</em></li>
   <li><em>Más información en el directorio RepasoJS/main.html</em></li>
 </ul>
 

@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Objetos de JS literales - JSON</strong></h3>
+<h3><b>Commit -</b> <strong>Promesas</strong></h3>
 <hr>
 <ol>
   <li>Edición del archivo main.js</li>

@@ -112,3 +112,31 @@ datos.innerHTML =
     nombres.forEach( (nombre) => {
       document.write("Mostrando los nombres usando forEach y flecha " + nombre + '<br/>');
     });
+
+
+    /* Objeto con propiedades */
+    var coche = {
+      modelo: 'Mercedes Clase A',
+      maxima: 500,
+      antiguedad: 2020,
+    };
+
+    /* Objeto con propiedades y con función */
+    var coche = {
+      modelo: 'Mercedes Clase A',
+      maxima: 500,
+      antiguedad: 2020,
+      mostrarDatos(){
+        console.log(this.modelo, this.maxima, this.antiguedad);
+      },
+      propiedad1: "valor aleatorio"
+    };
+
+    /* Impresión de las propiedades en el HTML */
+    document.write("<h1>" + coche.modelo + "</h1>")
+    document.write("<h1>" + coche.antiguedad + "</h1>")
+
+    /* Invocar la función dentro del objeto coche */
+    coche.mostrarDatos();
+    console.log(coche);
+    

@@ -12,4 +12,5 @@
     El directorio Instrucciones/GuíaCommit.txt solo contiene los cambios hechos en ese commit en específico.
   </li>
   <li>Estar pendiente de este archivo ya que podría tener actualizaciones si un commit lo necesita.</li>
+  <li>Los archivos con extensión .gitkeep son usados para guardar carpetas vacías en Git</li>
 </ul>

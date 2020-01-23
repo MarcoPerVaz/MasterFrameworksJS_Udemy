@@ -1,10 +1,10 @@
 
 <style>body{background-color:black;} strong{color:crimson;} pre{background-color:red;}</style>
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Introducción a la maquetación de sitios web</strong></h3>
+<h3><b>Commit -</b> <strong>Estructura básica HTML para el sitio web</strong></h3>
 <hr>
 <ol>
-  <li>Creación del directorio Maquetacion/</li>
+  <li>Creación y edición del archivo Maquetacion/index.html</li>
 </ol>
 
 <br>

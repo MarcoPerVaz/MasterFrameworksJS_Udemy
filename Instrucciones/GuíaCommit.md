@@ -1,9 +1,10 @@
 
 
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Cambiar las fuentes y tipo de letra con CSS3</strong></h3>
+<h3><b>Commit -</b> <strong>CSS del menú de navegación</strong></h3>
 <hr>
 <ol>
+  <li>Edición del archivo Maquetacion/index.html</li>
   <li>Edición del archivo Maquetacion/assets/styles.css</li>
 </ol>
 
@@ -12,7 +13,10 @@
 <!-- Notas -->
 <h3><b>Notas:</b></h3>
 <ul>
-  <li>*Se pueden importar las fuentes por si el Sistema Operativo no incluye la fuente elegida.</li>
+  <li>
+    Para un mejor entendimiento de la propiedad clear de CSS 
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS/clear">Concepto clear CSS</a>
+  </li>
 </ul>
 
 <em></em>

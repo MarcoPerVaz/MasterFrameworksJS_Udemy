@@ -1,10 +1,10 @@
 
 <style>body{background-color:black;} strong{color:crimson;} pre{background-color:red;}</style>
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>HTML y CSS para Slider de la web parte 2</strong></h3>
+<h3><b>Commit -</b> <strong>Marquesina o slider pequeño según la sección con CSS</strong></h3>
 <hr>
 <ol>
-  <li>Edición del archivo Maquetacion/index.html</li>
+  <li>Creación y edición del archivo Maquetacion/blog.html</li>
   <li>Edición del archivo Maquetacion/assets/styles.css</li>
 </ol>
 

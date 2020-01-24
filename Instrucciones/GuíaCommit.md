@@ -1,7 +1,7 @@
 
 <style>body{background-color:black;} strong{color:crimson;} pre{background-color:red;}</style>
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Maquetando con CSS el sidebar y la caja de contenido central</strong></h3>
+<h3><b>Commit -</b> <strong>CSS para el formulario de búsqueda y botones de la web</strong></h3>
 <hr>
 <ol>
   <li>Edición del archivo Maquetacion/index.html</li>

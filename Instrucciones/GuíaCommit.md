@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Primeros pasos con el diseño web adaptable CSS3</strong></h3>
+<h3><b>Commit -</b> <strong>Responsive de la web paso a paso</strong></h3>
 <hr>
 <ol>
   <li>Edición del archivo Maquetacion/assets/css/styles.css</li>

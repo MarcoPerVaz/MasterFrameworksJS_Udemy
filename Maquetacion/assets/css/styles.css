@@ -330,3 +330,18 @@ textarea {
   margin-bottom: 0px;
   border: none;
 }
+
+/* RESPONSIVE */
+
+/* Desde la anchura 0px hasta la anchura 1488px de pantalla */
+@media (max-width: 1488px) {
+  body {
+    background: red;
+  }
+}
+@media (max-width: 963px) {
+  body {
+    background: green;
+  }
+}
+

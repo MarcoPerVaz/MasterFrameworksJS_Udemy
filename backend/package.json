@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "API RESTfull del Master de Frameworks de JS}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoPerVaz/MasterFrameworksJS_Udemy.git"
+  },
+  "author": "Marco Perdomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoPerVaz/MasterFrameworksJS_Udemy/issues"
+  },
+  "homepage": "https://github.com/MarcoPerVaz/MasterFrameworksJS_Udemy#readme"
+}

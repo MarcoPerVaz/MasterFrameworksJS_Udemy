@@ -1,14 +1,31 @@
 
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Instalando NodeJs desde cero</strong></h3>
+<h3><b>Commit -</b> <strong>Como crear un proyecto en NodeJS</strong></h3>
 <hr>
 <ol>
   <li>
-    Ir a
-    <pre><a href="https://nodejs.org/es/">NodeJs</a></pre>
-    <ul>
-      <li>Descargar la versión LTS actual</li>
-    </ul>
+    Desde la ruta raíz del proyecto y usando la consola de Linux, se usa el comando
+    <pre>npm init</pre> 
+  </li>
+  <li>
+    A continuación un asistente de npm pide en que carpeta se creará el proyecto, se llamará (backend)
+    <br>
+    <em>*Node no permite crear la carpeta con mayúsculas</em>
+  </li>
+  <li>La versión es 1.0.0</li>
+  <li>La descripción es: API RESTfull del Master en Frameworks de JS</li>
+  <li>El entry point se deja como está (se presiona enter)</li>
+  <li>test command se deja como esta (se presiona enter)</li>
+  <li>git repository, en el curso no tenía nada pero como yo lo hice con Git me apareció mi GitHub</li>
+  <li>keywords se deja como está (se presiona enter)</li>
+  <li>author: Marco Perdomo</li>
+  <li>License: MIT</li>
+  <li>
+    Se pregunta si está de acuerdo, se pone yes o se presiona enter
+    <br>
+    <em>*Node no generó la carpeta backend por lo que se creó manualmente</em>
+    <br>
+    <em>*Se mete el archivo generado (package.json) en la carpeta backend</em>
   </li>
 </ol>
 
@@ -40,7 +57,15 @@
         <pre>ctrl + c</pre>
       </li>
     </ul>
-
+  </li>
+  <li>
+    Con el comando 
+    <pre>less _nombreArchivo.extension_</pre>
+    Se puede ver el contenido del archivo
+    <br>
+    Ejemplo:
+    <pre>less package.json</pre>
+    <em>*Debe estar dentro de la carpeta desde la consola (/c/laragon/www/MasterFrameworksJS/backend)</em>
   </li>
 </ul>
 

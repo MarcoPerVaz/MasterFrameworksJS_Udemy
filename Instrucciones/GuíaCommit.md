@@ -1,20 +1,16 @@
 
 <h1 align="center">Proyecto Master de Frameworks de Javascript</h1>
-<h3><b>Commit -</b> <strong>Trabajando con un cliente RESTfull</strong></h3>
+<h3><b>Commit -</b> <strong>Crear modelos</strong></h3>
 <hr>
 <ol>
   <li>
     <ul>
       <li>
-        Ir al sitio oficial de Postman
-        <a href="https://www.postman.com/"> Link Postman </a>
+        Creación de la carpeta <code>backend/models/</code>
+        <ul>
+          <li>Creación y edición del archivo <code>article.js</code></li>
+        </ul>
       </li>
-      <li>
-        Click en Dowload the App
-        ó click en <a href="https://www.postman.com/downloads/">Éste link</a>
-      </li>
-      <li>Descargar la versión según el sistema operativo usado</li>
-      <li>Instalar</li>
     </ul>
   </li>
  
@@ -35,4 +31,4 @@
   </li>
 </ul>
 
-<em></em>
+<em>*Más información en <code>backend/models/article.js</code></em>
